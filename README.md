@@ -54,6 +54,5 @@ and then to use them just add them to the `page body` like this
       <FontAwesomeIcon icon={faDisplay} style={{ fontSize: 100, color: "blue" }} />
       <FontAwesomeIcon icon={faDiscord} style={{ fontSize: 100, color: "black" }} />
       <FontAwesomeIcon icon={faMagnifyingGlass} style={{ fontSize: 100, color: "black" }} />
-      ```
-      
+```
      
