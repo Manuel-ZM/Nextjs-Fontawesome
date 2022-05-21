@@ -8,7 +8,7 @@ npm i --save @fortawesome/fontawesome-svg-core
 npm i --save @fortawesome/free-solid-svg-icons
 npm i --save @fortawesome/free-regular-svg-icons
 npm i --save @fortawesome/free-brands-svg-icons
-
+# Add react lib
 npm i --save @fortawesome/react-fontawesome@latest
     
 # you can also use yarn
